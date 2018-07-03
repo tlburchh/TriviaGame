@@ -1,0 +1,16 @@
+body{
+    background: url("http://www.winiche.com/wlog/redwood.jpg")no-repeat;   
+    background-size: cover;
+    margin: 30px;
+    font-family: 'Neucha', cursive, bold;
+}
+hr{
+    display: block;
+    border-style: double; 
+    border-width: 3px;
+    border-color: rgba(30, 109, 30, 0.44)
+}
+.timercard{
+    position: fixed;
+    z-index: 1000;
+}
